@@ -37,6 +37,7 @@ public class EnemyWave: ScriptableObject
                 _sequenceD  = _wave._spawnSequence[_index].Begin();
                 deltaTimeD = _sequenceD.ProgressD(deltaTimeD);
             }
+            
             return -1f;
         }
     }

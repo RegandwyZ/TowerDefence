@@ -30,6 +30,7 @@ public class EnemySpawnSequence
             _count = 0;
             _cooldown = sequence._cooldownS;
         }
+        
 
         public float ProgressD(float deltaTimeF)
         {

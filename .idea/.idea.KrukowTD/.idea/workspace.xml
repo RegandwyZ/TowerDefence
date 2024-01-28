@@ -76,6 +76,7 @@
       <workItem from="1696357155377" duration="2878000" />
       <workItem from="1697461898041" duration="5000" />
       <workItem from="1704244519489" duration="160000" />
+      <workItem from="1706485786513" duration="365000" />
     </task>
     <servers />
   </component>
@@ -86,24 +87,5 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Scripts/EnemySpawnSequence.cs</url>
-          <line>37</line>
-          <properties documentPath="C:\Users\RegandwyZ\Documents\KrukowTD\Assets\Scripts\EnemySpawnSequence.cs" initialLine="39" containingFunctionPresentation="method 'ProgressD'">
-            <startOffsets>
-              <option value="813" />
-            </startOffsets>
-            <endOffsets>
-              <option value="854" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
